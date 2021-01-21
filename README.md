@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am the Founder of [CatalystNeuro](catalystneuro.com), a consulting and software development company that facilitates collaboration in neuroscience. I have been fortunate enough to find a team of like-minded neuroscientists and software developers, and together we are finding ways to contribute to the field outside of the standard academic path. All of our code is open source and can be found [on GitHub](https://github.com/catalystneuro).
+I am the Founder of [CatalystNeuro](catalystneuro.com), a consulting and software development company that facilitates collaboration in neuroscience. I have been fortunate to find a team of like-minded neuroscientists and software developers, and together we are contributing to neuroscience from outside of the standard academic path. All of our code is open source and can be found on [our GitHub page](https://github.com/catalystneuro).
 
 Aside from the work I do at CatalystNeuro, some of my favorite side projects are:
 
 * [brokenaxes](https://github.com/bendichter/brokenaxes), a package for creating discontinuous plots in matplotlib
-* [tenseflow](https://github.com/bendichter/tenseflow), a package for converting the tense of any text. (not to be comfused with tensorflow 😋).
+* [tenseflow](https://github.com/bendichter/tenseflow), a package for converting the tense of any text (not to be comfused with tensorflow 😋).
 
 Check out [My personal website](bendichter.com) for more information about me.
 
