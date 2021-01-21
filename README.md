@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am the Founder of [CatalystNeuro](catalystneuro.com), a consulting and software development company that facilitates collaboration in neuroscience. I have been fortunate enough to find a team of like-minded neuroscientists and software developers, and together we are finding ways to contribute to the field outside of the standard academic path. 
+
+For more information, check out [My personal website](bendichter.com).
+
 <!--
 **bendichter/bendichter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
