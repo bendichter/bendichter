@@ -4,7 +4,6 @@ I am the Founder of [CatalystNeuro](catalystneuro.com), a consulting and softwar
 
 Aside from the work I do at CatalystNeuro, some of my favorite projects are:
 
-* [Zohuddle](zohuddle.com), a web app for finding and meeting collaborators.
 * [brokenaxes](https://github.com/bendichter/brokenaxes), a package for creating discontinuous plots in matplotlib.
 * [tenseflow](https://github.com/bendichter/tenseflow), a package for converting the tense of any text (not to be confused with tensorflow 😋 ).
 
